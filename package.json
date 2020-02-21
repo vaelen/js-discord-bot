@@ -1,0 +1,11 @@
+{
+    "name": "js-discord-bot",
+    "version": "0.0.1",
+    "description": "A simple Discord bot for NodeJS",
+    "main": "app.js",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "twitter": "^1.7.1"
+    }
+}
