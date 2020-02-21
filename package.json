@@ -7,5 +7,8 @@
     "dependencies": {
         "discord.js": "^11.5.1",
         "twitter": "^1.7.1"
+    },
+    "devDependencies": {
+        "@discordjs/uws": "^10.149.0"
     }
 }
